@@ -1,0 +1,7 @@
+This document contains links to the sources which I used for inspiration and small code snippets in the assignment
+
+Linked lists and nodes
+http://www.cprogramming.com/tutorial/lesson15.html
+
+Recursion for pre,post and in-order traversal
+https://en.wikipedia.org/wiki/Tree_traversal#Pre-order_2
